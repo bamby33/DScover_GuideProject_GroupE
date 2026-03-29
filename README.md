@@ -1,6 +1,8 @@
 # DScover Guide Project - Group E
 
-DScover 가이드 프로젝트 E조 저장소입니다.
+**성균관대학교 DScover 26기 1학기 가이드 프로젝트** E조 저장소입니다.
+
+- 기간: 2025.03.09 ~ 2025.03.20
 
 ## 팀원
 
